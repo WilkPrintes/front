@@ -13,8 +13,7 @@ export default function Home() {
                         alignSelf: 'center'
                     }}/>
                 </SideBox>
-
-                {/* <SideBox sx={{ bgcolor: "#000E5A" }}> */}
+                
                 <SideBox>
                     <Box sx={{
                         display: 'flex',
